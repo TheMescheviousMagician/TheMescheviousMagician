@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheMescheviousMagician
--  I’m currently learning Java.
+-  I’m currently learning Java. and 3D modeling(hence the "mesch"
 - 😄 Pronouns: She/Her
 
 <!---
